@@ -1,4 +1,4 @@
-# Machship Exam
+# Exam docs
 
 This app serves as an exam for my Golang developer application.
 
